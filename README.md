@@ -8,8 +8,9 @@ The objects that compose such maps are defined in .IDE files, their meshes posit
 
 ## Requirements
 
-1. Grand Theft Auto IV (any version)
+1. [Python](https://www.python.org/)
 2. [OpenIV](https://openiv.com/)
+3. Grand Theft Auto IV (required only to run OpenIV)
 
 ## How to use it
 
